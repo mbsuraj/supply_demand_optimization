@@ -1,0 +1,14 @@
+{
+  "CA": {
+      "demand_dist_mean": 120,
+      "demand_dist_std": 4.3,
+      "license_time": 35,
+      "time_to_hire": 45
+  },
+  "FL": {
+      "demand_dist_mean": 40,
+      "demand_dist_std": 8.1,
+      "license_time": 20,
+      "time_to_hire": 20
+  }
+}
